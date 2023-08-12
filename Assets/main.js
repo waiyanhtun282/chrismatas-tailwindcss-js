@@ -41,12 +41,12 @@ for(let i=0; i  < mobileSlideClosed.length; i++) {
 
 //scrollReveal
 
-ScrollReveal().reveal('.headline', { 
-  delay: 300,
-  origin: 'bottom',
-  distance: '50px',
-  interval: 300,
-  scale: 0.85,
-  reset: true
-});
+// ScrollReveal().reveal('.headline', { 
+//   delay: 300,
+//   origin: 'bottom',
+//   distance: '50px',
+//   interval: 300,
+//   scale: 0.85,
+//   reset: true
+// });
 
